@@ -1,3 +1,5 @@
+## pip install pyautogen pymemgpt
+
 import os
 import autogen
 import memgpt.autogen.memgpt_agent as memgpt_autogen
